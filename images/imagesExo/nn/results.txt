@@ -1,0 +1,11 @@
+# no resample
+Max Accuracy:  0.9922572960095295  at iteration:  0
+Max Precision:  0.0  at iteration:  0
+Max Recall:  0.0  at iteration:  0
+Max F1 Score:  0.0  at iteration:  0
+
+# resample
+Max Accuracy:  0.5721572157215722  at iteration:  10
+Max Precision:  0.9901477832512315  at iteration:  9
+Max Recall:  0.1965962441314554  at iteration:  10
+Max F1 Score:  0.3196564885496183  at iteration:  10

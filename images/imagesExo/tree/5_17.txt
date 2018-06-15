@@ -1,0 +1,8 @@
+Max Accuracy Entropy:  0.9915474265579454  at depth:  1
+Max Accuracy Gini:  0.992726594842491  at depth:  1
+Max Precision Entropy:  0.09318181818181819  at depth:  7
+Max Precision Gini:  0.1269047619047619  at depth:  6
+Max Recall Entropy:  0.10833333333333332  at depth:  9
+Max Recall Gini:  0.125  at depth:  6
+Max F1 Score Entropy:  0.08186274509803922  at depth:  7
+Max F1 Score Gini:  0.12444444444444444  at depth:  6
