@@ -1,0 +1,4 @@
+Max Accuracy:  0.5674157303370787  at iteration:  8
+Max Precision:  0.5674157303370787  at iteration:  8
+Max Recall:  0.5674157303370787  at iteration:  8
+Max F1 Score:  0.5674157303370787  at iteration:  8
